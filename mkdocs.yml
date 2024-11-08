@@ -43,7 +43,8 @@ nav:
     - Cyber Security: 
       - Pengenalan: cyber/cyber.md
     - Bug Hunter: 
-      - pengenalan: bug/bug.md
+      - pengenalan: bug/pengenalan.md
+      - materi: bug/materi.md
     - Tools: 
       - Pengenalan: tools/tools.md
     - Writeups: 
